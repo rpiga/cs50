@@ -6,7 +6,8 @@ Design and implement a data structure in C to manage a dictionary of words and f
 
 ### Notes
 Only code related to assignment is released here.
-To fully work, you should enroll for CS50 course (head to https://cs50.harvard.edu/ )
+
+To fully work, you should enroll for CS50 course (head to https://cs50.harvard.edu/ ) and integrate with the material provided for the assignment.
 
 Two versions deployed.
 
