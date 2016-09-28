@@ -5,7 +5,12 @@
 Design and implement a data structure in C to manage a dictionary of words and find mispellings in a text.
 
 ### Notes
+Only code related to assignment is released here.
+To fully work, you should enroll for CS50 course (head to https://cs50.harvard.edu/ )
+
 Two versions deployed.
+
+````dictionary.c```` 
 
 ### Example
 As from CS50 IDE
