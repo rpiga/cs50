@@ -10,7 +10,12 @@ To fully work, you should enroll for CS50 course (head to https://cs50.harvard.e
 
 Two versions deployed.
 
-````dictionary.c```` 
+- `dictionary.c` implements an hashtable with an array of linked lists. This is the final version submitted for grading.
+
+- `dictionary.trie.c` implements trie.
+
+With same large dictionaries, performances are almost identical.
+Trie seems slower with brief texts, due to larger load and unload times.
 
 ### Example
 As from CS50 IDE
